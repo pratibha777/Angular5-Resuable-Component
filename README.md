@@ -1,25 +1,27 @@
-# Angular5-Resuable-Component
+A# Angular5-Resuable-Component
 
 A project demonstrating Nested reusable component, with some bootstrap saas and accebility features.
 
+Environment: TypeScript, Angular5
+
 Usage
 
-Clone or Download this repository
+1. Clone or Download ZIP file of this repository
 
-Make sure you have node.js installed version (used version: v8.9.3) 
+2. Make sure you have node.js installed version (used version: v8.9.3) 
 
-Make sure you have NPM installed version 5+
+3. Make sure you have NPM installed version 5+
 
-Unzip Folder on say C drive.
+4. Unzip Folder on say C drive.
 
-Go to Node JS command prompt
+5. Go to Node JS command prompt
 
-Go to C:\Angular5-Resuable-Component-master\ng-tooltip>
+6. Go to C:\Angular5-Resuable-Component-master\ng-tooltip>
 
-run npm install to install dependencies
+7. run npm install to install dependencies
 
-run npm start to fire up dev server
+8. run npm start to fire up dev server
 
-Run ng serve for a dev server. eg C:\Angular5-Resuable-Component-master\ng-tooltip>ng serve
+9. Run ng serve for a dev server. eg C:\Angular5-Resuable-Component-master\ng-tooltip>ng serve
 
-Navigate to http://localhost:4200/. The app will automatically reload.
+10. Navigate to http://localhost:4200/. The app will automatically reload.
