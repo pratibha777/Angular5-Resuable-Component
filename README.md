@@ -1,4 +1,4 @@
-A# Angular5-Resuable-Component
+Angular5-Resuable-Component
 
 A project demonstrating Nested reusable component, with some bootstrap saas and accebility features.
 
