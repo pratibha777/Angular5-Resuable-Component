@@ -24,9 +24,9 @@ export class HomeComponent implements OnInit {
     let buttonID: string;       
     buttonID = event.target.id;
     //console.log(buttonID);
-    if (buttonID == 'button1')
+    if (buttonID == 'buttonA')
       this.displayTooltip1=true;
-    if (buttonID == 'button2')
+    if (buttonID == 'buttonB')
       this.displayTooltip2=true;
   } 
 
